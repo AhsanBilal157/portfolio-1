@@ -23,6 +23,15 @@ export const Icons = {
       />
     </svg>
   ),
+  ResumeIcon :(props: IconProps) => (
+    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" {...props}>
+      <title>Resume</title>
+      <path
+        fill="currentColor"
+        d="M6 2h12c1.1 0 2 .9 2 2v16c0 1.1-.9 2-2 2H6c-1.1 0-2-.9-2-2V4c0-1.1.9-2 2-2zm6 18h6v-2h-6v2zm-6-4h12v-2H6v2zm0-4h12v-2H6v2zm0-4h12V6H6v2z"
+      />
+    </svg>
+  ),
   youtube: (props: IconProps) => (
     <svg
       width="32px"

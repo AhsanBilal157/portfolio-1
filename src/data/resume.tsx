@@ -31,7 +31,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
-    // { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    // { href: "/resume", icon: ResumeIcon, label: "Blog" },
   ],
   contact: {
     email: "ahsanbilalaziz@gmail.com",
@@ -70,6 +70,12 @@ export const DATA = {
         icon: Icons.email,
         navbar: true,
       },
+      Resume: {
+        name: "Resume",
+        url: "/Ahsan Bilal - 2 page CV_compressed (1).pdf",
+        icon: Icons.ResumeIcon,
+        navbar: true,
+      }
     },
   },
 
