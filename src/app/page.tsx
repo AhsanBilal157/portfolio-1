@@ -123,9 +123,12 @@ export default function Page() {
                   Check out my latest work
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I&apos;ve worked on a variety of projects, from simple
-                  websites to complex web applications. Here are a few of my
-                  favorites.
+                  I&apos;ve worked on a variety of projects, across diverse 
+                  fields in machine learning, artificial intelligence, deep learning,
+                  and natural language processing. My experience includes implementing
+                  solutions for Chatbots, data analysis, and advanced AI-driven 
+                  problem-solving. These projects showcase my adaptability and 
+                  depth of knowledge across various cutting-edge technologies.
                 </p>
               </div>
             </div>
@@ -164,12 +167,10 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  During my time in university, I attended{" "}
-                  {DATA.Achievements.length}+ hackathons. People from around the
-                  country would come together and build incredible things in 2-3
-                  days. It was eye-opening to see the endless possibilities
-                  brought to life by a group of motivated and passionate
-                  individuals.
+                  During my time in university, I represented my
+                  university in several competitions, gaining valuable experience
+                  in teamwork, creativity, and rapid problem-solving. These diverse
+                  experiences have fueled my passion for pushing the boundaries of AI and technology.
                 </p>
               </div>
             </div>
