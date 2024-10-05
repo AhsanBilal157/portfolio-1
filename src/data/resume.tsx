@@ -30,7 +30,10 @@ export const DATA = {
     "React",
     "Flask",
     "Typescript",
-    "Postgres"
+    "Postgres",
+    "Microsoft 365",
+    "Power Platforms",
+    "Copilot"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
