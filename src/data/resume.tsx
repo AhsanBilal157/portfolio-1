@@ -272,4 +272,50 @@ export const DATA = {
       links: [],
     }
   ],
+  Certifications: [
+    {
+      title: "Certified Artificial Intelligence Developer",
+      dates: "January 2023",
+      location: "PIAIC",
+      description:
+        "Earned certification as an AI Engineer, demonstrating expertise in AI, machine learning, and data science techniques, with practical hands-on projects and problem-solving.",
+      image:
+        "/piaic.png",
+      mlh: "",
+      links: [],
+    },
+    {
+      title: "Exam MTA 98-381: Introduction to Programming Using Python",
+      dates: "March 2021",
+      location: "Microsoft Technology Associate (MTA)",
+      description:
+        "Earned a certification demonstrating proficiency in Python programming, including basic algorithms, data structures, and problem-solving techniques.",
+      image:
+        "/WhatsApp Image 2023-01-29 at 4.34.16 PM.jpeg",
+      mlh: "",
+      links: [],
+    },
+    {
+      title: "Career Essentials in Generative AI",
+      dates: "August 2023",
+      location: "Microsoft & Linkedin",
+      description:
+        "Completed a comprehensive course on the fundamentals of Generative AI, enhancing my ability to work with and implement LLMs in real-world applications. ",
+      icon: "public",
+      image:
+        "/Microsoft_logo.svg.png",
+      links: [],
+    },
+    {
+      title: "Prompt Engineering for Generative AI",
+      dates: "October 2023",
+      location: "Vanderbilt University (Coursera)",
+      description:
+        "Completed a course on prompt engineering, focusing on optimizing prompt structures for improving responses from large language models like GPT.",
+      icon: "public",
+      image:
+        "/coursera-logo.png",
+      links: [],
+    }
+  ],
 } as const;
