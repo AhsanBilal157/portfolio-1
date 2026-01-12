@@ -78,7 +78,7 @@ export const DATA = {
       },
       Resume: {
         name: "Resume",
-        url: "/Ahsan Bilal Academia (1).pdf",
+        url: "/Ahsan_Bilal_Academia_(1).pdf",
         icon: Icons.ResumeIcon,
         navbar: true,
       }
