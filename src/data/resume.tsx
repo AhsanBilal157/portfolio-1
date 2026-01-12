@@ -78,7 +78,7 @@ export const DATA = {
       },
       Resume: {
         name: "Resume",
-        url: "/Ahsan Bilal - 2 page CV_compressed (1).pdf",
+        url: "/Ahsan Bilal Academia (1).pdf",
         icon: Icons.ResumeIcon,
         navbar: true,
       }
@@ -87,14 +87,26 @@ export const DATA = {
 
   work: [
     {
+      company: "Cybergen",
+      href: "https://cybergen.ai/",
+      badges: [],
+      location: "Faisalabad,Pakistan",
+      title: "AI Engineer",
+      logoUrl: "/the_cyber_generation_logo.jpeg",
+      start: "October 2025",
+      end: "Present",
+      description:
+        "Contribute to research-driven AI and machine learning projects, supporting experimentation, model evaluation, and iterative improvement. • Assist in data preparation, feature engineering, and validation pipelines for research and applied AI systems. • Support senior researchers in problem formulation, methodology design, and experimental analysis. • Participate in technical documentation, reporting, and manuscript preparation for research outputs. • Engage in mentoring, workshops, and knowledge-sharing activities focused on AI fundamentals and applied ML research",
+    },
+    {
       company: "Technupur",
       href: "https://technupur.com",
       badges: [],
       location: "Faisalabad,Pakistan",
-      title: "Jr AI Engineer",
+      title: "AI Engineer",
       logoUrl: "/tpimg.png",
       start: "January 2024",
-      end: "Present",
+      end: "October 2025",
       description:
         "Led projects in OCR and LLMs GenAI, creating advanced NLP solutions.\n\n Developed an insurance RAG chatbot in Azure AI Studio with an admin panel for automated model retraining.\n\n Implemented Pythonic AWS solutions for ETL processes, including calculating CO2 emissions.",
     },
